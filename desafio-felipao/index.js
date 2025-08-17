@@ -1,4 +1,3 @@
-// iniciando
 let nomeHeroi = "Bravus";
 let xp = 15000;
 
